@@ -34,7 +34,7 @@ Due to file size limitations on GitHub, the `data/` directory is **not included*
 
 You can download the full dataset from the following Google Drive link:
 
-👉 [**Download Dataset from Google Drive**]([https://your_google_drive_link_here](https://drive.google.com/drive/folders/17M-50X0K2_2rGaFiPgNmP82BiLqUeHrr?usp=sharing))
+👉 [**Download Dataset from Google Drive**](https://drive.google.com/drive/folders/17M-50X0K2_2rGaFiPgNmP82BiLqUeHrr?usp=sharing)
 
 After downloading, extract the contents into the `data/` folder so the directory structure matches the layout above.
 
